@@ -5,5 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("update commit_1");
 		
+		System.out.println("git -> import eclipse");
+		
 	}
 }
